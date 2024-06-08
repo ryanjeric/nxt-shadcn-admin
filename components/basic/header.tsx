@@ -34,7 +34,7 @@ export default function Header() {
         prefetch={false}
       >
         <Tent className="h-6 w-6" />
-        <span>MR Admin</span>
+        <span>Admin</span>
       </Link>
 
       <div className="ml-4 flex items-center gap-3">
